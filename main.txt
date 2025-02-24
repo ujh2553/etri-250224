@@ -12,3 +12,5 @@ left2
 pull request1
 -
 pull request2
+-
+싫어요
