@@ -8,5 +8,9 @@ leftright1
 -
 left2
 -righ2
+
+pull request1
+-
+pull request2
 -
 싫어요
